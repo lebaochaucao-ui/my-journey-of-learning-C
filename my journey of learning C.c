@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                            //day 2 learning C!!, ig...
+                                            //day 1 of learning C!!, ig...
                                             //today is 20/6/2026
                                             //this is my first C program,about market
                                             //i wrote this when i'm 12 years old
