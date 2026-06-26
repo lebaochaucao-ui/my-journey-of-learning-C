@@ -6,9 +6,15 @@ Learning C from scratch to build my first fangame(abs ProjectSekai)
 started in : 20th ,June 2026
 end:still learning..
 progess:
+
 day 1: operators
+
 day 2: if-else
+
 day 3: if-else
+
 day 4: ASCII
+
 day 5: if-else,else-if
+
 day 6: for loop
