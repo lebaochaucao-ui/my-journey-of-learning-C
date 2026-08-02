@@ -1,0 +1,33 @@
+//hey
+//this is a farewell to this commit 
+//today is 2nd August 2026
+//I have learned:
+//Int,float,double,char,char[],bool
+//printf,scanf,fgets
+//+ - * / ,-=,+=,++,--,=,!,||,&&,==,!=,>,<,>=,<=,%,&
+//if-else,else if,switch case,while,do,for
+//func
+//goto,typedef,enum
+//arrays,2d arrays
+//I think it's enough to try C++ now.
+//my goals is Game Development not CS so that's why I stopped C so early
+//pointer too hard maybe I'll save up my sober for C++ pointer
+//my-journey-of-learning-C commit have done after 44 days of learning C from zero.
+
+                   /*rest.in.beach my-journey-of-learning-C commit (6/19 2026 - 8/2 2026) */
+
+//I'll make my-journey-of-learning-Cpp commit soon,you guys better leave a star
+
+#include <stdio.h>
+
+void main(){
+  printf("Hello World!");
+  printf("Turbo 2.0 Code::block");
+}
+
+
+//lol that's the first lines I ever wrote in first days of learning C
+//I hope I'm doing well in C++
+//cya!
+//I'll be !okay at C++ tho
+            this commit has ended in 2nd August 2026 after 44 days of learning,12 files in Github,started in 19th June 2026,ended 2nd August 2026
